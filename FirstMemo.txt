@@ -1,2 +1,5 @@
 //오늘 내가 깃허브를 처음 배웠다.
 public text newText;
+
+//게임오브젝트 선언
+public GameObject newGameObject
